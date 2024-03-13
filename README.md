@@ -12,3 +12,8 @@ Langages : React, TypeScript et TailWind
 ## Aperçu du Projet
 
 (en cours)
+
+
+## Lancement du projet
+
+npm run dev
